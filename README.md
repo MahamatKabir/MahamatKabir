@@ -1,16 +1,64 @@
-### Here is What I'm Working on! 👋
+# 👋 Hi, I'm Kabir
 
-<!--
-**MahamatKabir/MahamatKabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | Mobile & Backend Enthusiast  
+🌍 Based in Istanbul, Turkey  
+🚀 Passionate about building modern, scalable and useful digital products
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🎓 Computer Engineering graduate
+- 📱 Mobile developer (Flutter / React Native)
+- 🌐 Backend developer (Node.js)
+- 🧩 Interested in SaaS, AI tools and startup ideas
+- 🌱 Currently improving my system design & product thinking
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js / Next.js
+- Tailwind CSS
+- Flutter
+
+**Backend**
+- Node.js / Express
+- REST APIs
+- MongoDB / PostgreSQL
+
+**Tools**
+- Git & GitHub
+- Docker (learning)
+- Postman
+- VS Code
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧾 SaaS idea generator platform (Startup Spark concept)
+- 📱 Flutter mobile applications
+- 🌍 Web applications with modern UI/UX
+- 🤖 AI-powered tools for business automation
+
+---
+
+## 📈 Goals
+
+- Build and launch real SaaS products
+- Work on impactful tech projects in Africa & globally
+- Become strong in system architecture & scalable backend design
+
+---
+
+## 📫 Contact Me
+
+- Email: mahamatkabir1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mahamat-kabir-souleyman-891b72174/
+- GitHub: https://github.com/MahamatKabir
+
+---
+
+⭐ “Building ideas into real products, step by step.”
