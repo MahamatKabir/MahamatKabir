@@ -63,3 +63,4 @@
 
 ⭐ “Building ideas into real products, step by step.”
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Mobile+App+Builder;SaaS+Creator)](https://git.io/typing-svg)
