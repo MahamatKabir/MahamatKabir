@@ -50,15 +50,6 @@
 - Build and launch real SaaS products
 - Work on impactful tech projects in Africa & globally
 - Become strong in system architecture & scalable backend design
-
----
-
-## 📫 Contact Me
-
-- Email: mahamatkabir1@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mahamat-kabir-souleyman-891b72174/
-- GitHub: https://github.com/MahamatKabir
-
 ---
 
 ⭐ “Building ideas into real products, step by step.”
