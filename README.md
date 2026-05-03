@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23+%F0%9F%91%8B+Hi%2C+I'm+Kabir++)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%23+%F0%9F%91%8B+Hi%2C+I'm+Kabir++)](https://git.io/typing-svg) _ [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Mobile+App+Builder;SaaS+Creator)](https://git.io/typing-svg)
 
 💻 Full-Stack Developer | Mobile & Backend Enthusiast  
 🌍 Based in Istanbul, Turkey  
@@ -63,4 +63,4 @@
 
 ⭐ “Building ideas into real products, step by step.”
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Mobile+App+Builder;SaaS+Creator)](https://git.io/typing-svg)
+
